@@ -10,8 +10,11 @@ Data Cleaning • Data Modelling • Dashboard Design • Parameter Controls •
 ---
 
 📖 **Project Overview**
+
 This project analyzes data from the **Australian Early Development Census (AECD)** to understand the developmental progress of children across Australia.  
+
 Using Tableau and Excel, the dashboard visualizes insights across **domains such as physical health, social competence, emotional maturity, language and cognitive skills, and communication development**.  
+
 The goal is to identify patterns of early childhood vulnerability, regional differences, and progress over time — empowering policymakers and educators to make informed, child-centered decisions.
 
 ---
