@@ -47,9 +47,7 @@ https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboar
 
 📂 **Download the Excel File**
 You can download the Excel dataset here:  
-
-https://drive.google.com/file/d/1oAZVlDAIdR_eGcxazAIe6ZjsOCGxLHM2/view?usp=sharing
-
+https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboard/blob/main/AECD_dashboard_png.png?raw=true
 ---
 
 💬 **Created by**
