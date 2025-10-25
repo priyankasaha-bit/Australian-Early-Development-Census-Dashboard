@@ -28,7 +28,7 @@ The goal is to identify patterns of early childhood vulnerability, regional diff
 ---
 
 📊 **Key Insights**
-- During my internship with Social Quest, I discovered that behind every data point lies a child’s story. Working with the 𝗔𝘂𝘀𝘁𝗿𝗮𝗹𝗶𝗮𝗻 𝗘𝗮𝗿𝗹𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗖𝗲𝗻𝘀𝘂𝘀 health dataset allowed me to uncover insights into the physical and emotional foundations shaping Australia’s future generations.
+During my internship with Social Quest, I discovered that behind every data point lies a child’s story. Working with the 𝗔𝘂𝘀𝘁𝗿𝗮𝗹𝗶𝗮𝗻 𝗘𝗮𝗿𝗹𝘆 𝗗𝗲𝘃𝗲𝗹𝗼𝗽𝗺𝗲𝗻𝘁 𝗖𝗲𝗻𝘀𝘂𝘀 health dataset allowed me to uncover insights into the physical and emotional foundations shaping Australia’s future generations.
 
 📈 𝗧𝗵𝗲 𝗻𝘂𝗺𝗯𝗲𝗿 𝗼𝗳 𝗰𝗵𝗶𝗹𝗱𝗿𝗲𝗻 𝗮𝘀𝘀𝗲𝘀𝘀𝗲𝗱 𝗵𝗮𝘀 𝘀𝘁𝗲𝗮𝗱𝗶𝗹𝘆 𝗶𝗻𝗰𝗿𝗲𝗮𝘀𝗲𝗱 𝗳𝗿𝗼𝗺 𝟮𝟬𝟬𝟵 𝘁𝗼 𝟮𝟬𝟮𝟰, with New South Wales alone showing growth from 𝟴𝟮,𝟴𝟵𝟭 𝗰𝗵𝗶𝗹𝗱𝗿𝗲𝗻 𝗶𝗻 𝟮𝟬𝟬𝟵 𝘁𝗼 𝟵𝟯,𝟯𝟳𝟳 𝗶𝗻 𝟮𝟬𝟮𝟰, reflecting a stronger monitoring of health awareness in the census.
 
