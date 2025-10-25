@@ -42,14 +42,14 @@ During my internship with Social Quest, I discovered that behind every data poin
 🌏 Built geographic map of Australia to visualize state and region-level concentration of developmental readiness, enabling policymakers to spot inequality patterns. Had 𝗶𝗺𝗽𝗼𝗿𝘁𝗲𝗱 𝗮 𝘀𝗽𝗮𝘁𝗶𝗮𝗹 𝗹𝗮𝘆𝗲𝗿 𝗼𝗳 𝗦𝗔𝟮 𝗹𝗲𝘃𝗲𝗹 𝗺𝗮𝗽 on top to show the region-wise development.
 
 ---
-
 🖼️ **Dashboard Preview**
-https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboard/blob/main/AECD_dashboard_png.png?raw=true
+![AECD Dashboard](https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboard/blob/main/AECD_dashboard_png.png?raw=true)
+
+------
 
 📂 **Download the Excel File**
 You can download the Excel dataset here:  
-### 🖼️ Dashboard Preview
-![AECD Dashboard](https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboard/blob/main/AECD_dashboard_png.png?raw=true)
+https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboard/blob/main/AECD_dashboard_png.png?raw=true
 
 ---
 
