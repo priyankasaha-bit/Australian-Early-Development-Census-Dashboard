@@ -42,6 +42,8 @@ During my internship with Social Quest, I discovered that behind every data poin
 
 ---
 
+🖼️ **Dashboard Preview**
+https://github.com/priyankasaha-bit/Australian-Early-Development-Census-Dashboard/blob/main/AECD_dashboard_png.png?raw=true
 
 📂 **Download the Excel File**
 You can download the Excel dataset here:  
