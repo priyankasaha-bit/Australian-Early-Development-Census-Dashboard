@@ -51,7 +51,7 @@ During my internship with Social Quest, I discovered that behind every data poin
 
 📂 **Download the Excel File**
 You can download the Excel dataset here:  
-[Download Excel File](https://drive.google.com/uc?export=download&id=1oAZVlDAIdR_eGcxazAIe6ZjsOCGxLHM2)
+[Download File](https://drive.google.com/uc?export=download&id=1oAZVlDAIdR_eGcxazAIe6ZjsOCGxLHM2)
 
 ---
 
